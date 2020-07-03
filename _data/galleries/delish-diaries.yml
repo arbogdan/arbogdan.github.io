@@ -1,0 +1,23 @@
+picture_path: delish-diaries
+preview:
+  filename: delish-diaries-cover
+  original: delish-diaries-cover.jpg
+  sizes:
+  - delish-diaries-cover.jpg
+  thumbnail: delish-diaries-cover-thumbnail.jpg
+pictures:
+- filename: delish-diaries-cover
+  original: delish-diaries-cover.jpg
+  sizes:
+  - delish-diaries-cover.jpg
+  thumbnail: delish-diaries-cover-thumbnail.jpg
+# - filename: 2
+#   original: 2.jpg
+#   sizes:
+#   - 2.jpg
+#   thumbnail: 2-thumbnail.jpg
+# - filename: 3
+#   original: 3.jpg
+#   sizes:
+#   - 3.jpg
+#   thumbnail: 3-thumbnail.jpg

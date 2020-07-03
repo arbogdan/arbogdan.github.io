@@ -6,7 +6,7 @@ date: "2020-07-03 11:38:00"
 thumbnail: /assets/img/posts/ds-portfolio-101-thumbnail.jpg
 thumbnail_author: Lukas Blazek
 thumbnail_url: "https://www.pexels.com/@goumbik"
-category: Guides
+category: guides
 summary: Essential components of a compelling data science portfolio
 ---
 

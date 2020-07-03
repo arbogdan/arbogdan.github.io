@@ -1,4 +1,4 @@
--
+- 
   title: Mountains
   directory: mountains
   preview:
@@ -7,3 +7,12 @@
     sizes:
     - 1-thumbnail.jpg
     thumbnail: 1-thumbnail.jpg
+-
+  title: Delish Diaries
+  directory: delish-diaries
+  preview:
+    filename: delish-diaries-cover.jpg
+    original: delish-diaries-cover.jpg
+    sizes:
+    - delish-diaries-cover.jpg
+    thumbnail: delish-diaries-cover-thumbnail.jpg

@@ -5,6 +5,9 @@ layout: page
 permalink: /get-started/
 ---
 
+# For anyone interested in setting up a website like this one, follow the steps below! Credit to Sujay Kundu.
+===
+
 ## Getting Started - How to use “devlopr-jekyll” theme
 
 ## What's Jekyll ?
