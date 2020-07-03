@@ -8,7 +8,7 @@
         <span itemprop="name">{{ page.author }}</span> </span
       >{% endif %} at
       <time datetime="{{ page.date }}" itemprop="datePublished"
-        >{{ page.date | date: "%b %-d, %Y" }}</time
+        >{{ page.date | date: "%H:%M, %b %-d, %Y" }}</time
       >
     </p>
     <span
@@ -32,6 +32,7 @@
       src="{{site.url}}{{site.baseurl}}{{ page.thumbnail }}"
       alt="{{ post.title }}"
     />
+    <p> Photo Credit: <a href="{{ page.thumbnail_url }}">{{ page.thumbnail_author }}</a> </p>    
     <br />
     <br />
     {{ content }}
