@@ -7,7 +7,10 @@ gem 'rack-jekyll'
 gem 'rake'
 gem 'puma'
 gem 'html-proofer'
-
+# Rack needs to be updated to >=2.1.4, however the following currently prevents this:
+# jekyll-admin (~> 0.9.0) was resolved to 0.9.0, which depends on
+# sinatra (~> 1.4) was resolved to 1.4.2, which depends on
+#   rack (>= 1.5.2, ~> 1.5)
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
