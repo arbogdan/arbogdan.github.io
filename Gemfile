@@ -7,6 +7,7 @@ gem 'rack-jekyll'
 gem 'rake'
 gem 'puma'
 gem 'html-proofer'
+gem 'json', '~> 2.3.1'
 # Rack needs to be updated to >=2.1.4, however the following currently prevents this:
 # jekyll-admin (~> 0.9.0) was resolved to 0.9.0, which depends on
 # sinatra (~> 1.4) was resolved to 1.4.2, which depends on
